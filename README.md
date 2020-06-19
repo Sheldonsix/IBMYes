@@ -153,7 +153,7 @@ New secret
 分别建立四个secret
 
 ```
-IBM_ACCOUNT // IBM Cloud的登录邮箱和密码
+IBM_ACCOUNT // IBM Cloud 的登录邮箱和密码
 IBM_APP_NAME // 应用的名称
 REGION_NUM // 区域编码
 RESOURSE_ID // 资源组ID
